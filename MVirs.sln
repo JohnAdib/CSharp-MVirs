@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVirs", "MVirs\MVirs.csproj", "{DB9EC624-1C66-40D9-B517-749261D44CEF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{C59C08E2-0B72-491D-8370-8276BD4AB3E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB9EC624-1C66-40D9-B517-749261D44CEF}.Debug|x86.ActiveCfg = Debug|x86
+		{DB9EC624-1C66-40D9-B517-749261D44CEF}.Debug|x86.Build.0 = Debug|x86
+		{DB9EC624-1C66-40D9-B517-749261D44CEF}.Release|x86.ActiveCfg = Release|x86
+		{DB9EC624-1C66-40D9-B517-749261D44CEF}.Release|x86.Build.0 = Release|x86
+		{C59C08E2-0B72-491D-8370-8276BD4AB3E4}.Debug|x86.ActiveCfg = Debug
+		{C59C08E2-0B72-491D-8370-8276BD4AB3E4}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

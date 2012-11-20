@@ -1,0 +1,10 @@
+C:\Data\My Works\C#.NET\Active Projects\MVirs\MVirs\bin\Debug\MVirs.exe
+C:\Data\My Works\C#.NET\Active Projects\MVirs\MVirs\bin\Debug\MVirs.pdb
+C:\Data\My Works\C#.NET\Active Projects\MVirs\MVirs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Data\My Works\C#.NET\Active Projects\MVirs\MVirs\obj\x86\Debug\MVirs.MVirs.resources
+C:\Data\My Works\C#.NET\Active Projects\MVirs\MVirs\obj\x86\Debug\MVirs.Properties.Resources.resources
+C:\Data\My Works\C#.NET\Active Projects\MVirs\MVirs\obj\x86\Debug\ResGen.read.1.tlog
+C:\Data\My Works\C#.NET\Active Projects\MVirs\MVirs\obj\x86\Debug\ResGen.write.1.tlog
+C:\Data\My Works\C#.NET\Active Projects\MVirs\MVirs\obj\x86\Debug\MVirs.exe
+C:\Data\My Works\C#.NET\Active Projects\MVirs\MVirs\obj\x86\Debug\MVirs.pdb
+C:\Data\My Works\C#.NET\Active Projects\MVirs\MVirs\obj\x86\Debug\MVirs.Form1.resources

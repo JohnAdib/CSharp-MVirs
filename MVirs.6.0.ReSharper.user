@@ -1,0 +1,121 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Mvirs.Designer.cs" caret="0" fromTop="0" />
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Mvirs.cs" caret="2008" fromTop="5" />
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Form1.cs" caret="715" fromTop="14" />
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Program.cs" caret="475" fromTop="19" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Mvirs.cs" caret="1405" fromTop="14" />
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Mvirs.cs" caret="1778" fromTop="27" />
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Mvirs.cs" caret="2806" fromTop="14" />
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Program.cs" caret="79" fromTop="3" />
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Program.cs" caret="320" fromTop="14" />
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Program.cs" caret="103" fromTop="4" />
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Mvirs.cs" caret="2614" fromTop="25" />
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Program.cs" caret="520" fromTop="17" />
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Mvirs.cs" caret="2781" fromTop="25" />
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Mvirs.cs" caret="2456" fromTop="16" />
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Mvirs.cs" caret="1055" fromTop="11" />
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Mvirs.cs" caret="1055" fromTop="16" />
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Mvirs.cs" caret="1055" fromTop="11" />
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Mvirs.cs" caret="1055" fromTop="23" />
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Mvirs.cs" caret="326" fromTop="14" />
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Mvirs.cs" caret="1055" fromTop="22" />
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Mvirs.cs" caret="129" fromTop="3" />
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Mvirs.cs" caret="1055" fromTop="25" />
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Mvirs.cs" caret="1055" fromTop="17" />
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Mvirs.cs" caret="1055" fromTop="17" />
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Mvirs.cs" caret="1055" fromTop="16" />
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Mvirs.cs" caret="1055" fromTop="23" />
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Mvirs.cs" caret="2806" fromTop="5" />
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Mvirs.cs" caret="2806" fromTop="5" />
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Form1.cs" caret="458" fromTop="17" />
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Form1.cs" caret="569" fromTop="17" />
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Form1.cs" caret="660" fromTop="16" />
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Form1.cs" caret="870" fromTop="17" />
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Form1.cs" caret="847" fromTop="18" />
+      <File id="DB9EC624-1C66-40D9-B517-749261D44CEF/f:Program.cs" caret="475" fromTop="19" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="textBox1" priority="203" />
+      <Item value="Application`0" priority="53" />
+      <Item value="MessageBox`0" priority="58" />
+      <Item value="Visible" priority="26" />
+      <Item value="frm" priority="31" />
+      <Item value="false" priority="31" />
+      <Item value="if" priority="63" />
+      <Item value="chkStartUp" priority="31" />
+      <Item value="try" priority="31" />
+      <Item value="catch" priority="31" />
+      <Item value="Exception`0" priority="31" />
+      <Item value="ex" priority="63" />
+      <Item value="Text" priority="31" />
+      <Item value="while" priority="31" />
+      <Item value="var" priority="31" />
+      <Item value="null" priority="31" />
+      <Item value="string" priority="63" />
+      <Item value="Form1" priority="29" />
+      <Item value="IFeatureSupport`0" priority="31" />
+      <Item value="e" priority="31" />
+      <Item value="true" priority="31" />
+      <Item value="MVirs" priority="29" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="184" />
+      <Item value="TextLength" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Application">
+      <Item value="ProductName" priority="45" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MVirs.MVirs">
+      <Item value="Visible" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.CheckBox">
+      <Item value="Tag" priority="22" />
+      <Item value="Checked" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.ThreadPriority">
+      <Item value="Highest" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Boolean">
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ComponentModel.CancelEventArgs">
+      <Item value="Cancel" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
